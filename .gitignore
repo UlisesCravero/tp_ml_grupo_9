@@ -1,2 +1,5 @@
 # Ignoramos la siguiente carpeta
 .ipynb_checkpoints
+
+#venv ulises
+tp_ml
